@@ -1,3 +1,3 @@
-# Your blog
+# Blogging on GitHub Pages
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+I have started this a an experiment to organize and share what I have learned over the years.
